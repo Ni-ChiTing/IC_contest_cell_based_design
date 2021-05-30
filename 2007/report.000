@@ -1,0 +1,14 @@
+隊號(Team number): 999999
+
+--- RTL category---
+使用之HDL模擬器名稱(HDL simulator name):   nc-verilog
+RTL檔案名稱(RTL filename):                 lcd_ctrl.v, sub1.v, sub2.v
+
+--- Pre-layout gate-level ---
+gate-level檔案名稱(gate_level filename):   lcd_ctrl_syn.vg
+gate-level sdf filename:                   lcd_ctrl_syn.sdf
+design compiler合成資料庫(dc library):     lcd_ctrl_syn.db
+simulation clock period:                   100ns
+
+-----注意事項(annotation)----------------------------------------------
+ (其餘注意事項依各參賽隊伍的需求填寫)
